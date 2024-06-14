@@ -1,0 +1,24 @@
+{
+  "name": "random-txt-strings",
+  "version": "1.0.0",
+  "description": "random string text messages generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedromonvel/random-txt-strings.git"
+  },
+  "keywords": [],
+  "author": "Juan Pedro Montoya <juanpemonv1994@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedromonvel/random-txt-strings/issues"
+  },
+  "homepage": "https://github.com/pedromonvel/random-txt-strings#readme",
+  "bin": {
+    "random-txt-strings": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
